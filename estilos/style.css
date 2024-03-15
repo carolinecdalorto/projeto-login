@@ -31,7 +31,9 @@ section#login {
 }
 
 section#login > div#imagem {
-    background: blueviolet url(../imagens/pexels-photo-1774931.jpeg);
+    background: blueviolet url(../imagens/pexels-photo-1774931.jpeg) no-repeat;
+    background-size: cover;
+    
     height: 200px;
 }
 
