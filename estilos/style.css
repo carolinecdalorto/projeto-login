@@ -30,3 +30,7 @@ section#login {
     border-radius: 20px;
 }
 
+section#login > div#imagem {
+    background: blueviolet url(../imagens/pexels-photo-1774931.jpeg) ;
+}
+
