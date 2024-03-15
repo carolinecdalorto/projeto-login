@@ -31,6 +31,7 @@ section#login {
 }
 
 section#login > div#imagem {
-    background: blueviolet url(../imagens/pexels-photo-1774931.jpeg) ;
+    background: blueviolet url(../imagens/pexels-photo-1774931.jpeg);
+    height: 200px;
 }
 
