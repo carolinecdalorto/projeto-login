@@ -20,14 +20,13 @@
 
 @media screen and (min-width: 992px) {
     section#login {
-        width: 990vw;
+        width: 950vw;
     }
 
     section#login > div#imagem {
         float: left;
         width: 50%;
         height: 100%;
-        background-position: right;
     }
 
     section#login > div#formulario {
