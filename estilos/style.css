@@ -74,6 +74,15 @@ form > input[type=submit]:hover {
     background-color: #234e4d;
 }
 
+form > div.campo {
+    background-color: blueviolet;
+    width: 100%;
+    display: block;
+    height: 40px;
+    border-radius: 5px;
+    margin: 5px 0px;
+}
+
 form > a.botao {
     display: block;
     text-align: center;
