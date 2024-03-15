@@ -73,3 +73,15 @@ form > input[type=submit] {
 form > input[type=submit]:hover {
     background-color: #234e4d;
 }
+
+form > a.botao {
+    display: block;
+    text-align: center;
+    font-size: 1em;
+    width: 100%;
+    height: 40px;
+    background-color: #6df1ef;
+    border: 1px solid #49a09d;
+    border-radius: 5px;
+    text-decoration: none;
+}
