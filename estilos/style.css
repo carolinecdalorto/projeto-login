@@ -120,11 +120,10 @@ div.campo > i {
 }
 
 div.campo > input {
-    background-color: #49a09d;
+    background-color: #61d6d2;
     font-size: 1em;
     height: 100%;
-    width: calc(100% - 36px);
-    transform: translateY(-2px);
+    width: 100%;
     border: 0px;
     border-radius: 8px;
     padding: 4px;
