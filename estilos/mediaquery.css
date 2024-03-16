@@ -12,8 +12,8 @@
 
     section#login > div#imagem {
         float: left;
-        width: 30%;
-        height: 80%;
+        width: 20%;
+        height: 100%;
         background-position: right;
     }
 
