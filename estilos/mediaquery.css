@@ -7,7 +7,7 @@
     }
 
     section#login {
-        width: 80vw;
+        width: 60vw;
     }
 
     section#login > div#imagem {
@@ -19,7 +19,7 @@
 
     section#login > div#formulario {
         float: right;
-        width: 50%;
+        width: 70%;
     }
 }
 
