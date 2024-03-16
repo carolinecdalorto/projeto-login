@@ -123,8 +123,8 @@ div.campo > input {
     background-color: #61d6d2;
     font-size: 1em;
     height: 100%;
-    width: calc(100% - 30px);
-    transform: translateY(-1px);
+    width: calc(100% - 29px);
+    transform: translateY(-0.7px);
     border: 0px;
     border-radius: 8px;
     padding: 4px;
