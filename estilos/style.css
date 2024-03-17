@@ -20,9 +20,10 @@ main {
 }
 
 section#login {
-    position: absolute;
-    top: 50%;
-    left: 50%;
+    display: flex; /* conteiner */
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
     overflow: hidden;
     background-color: white;
     width: 250px;
@@ -31,7 +32,7 @@ section#login {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.479);
     transition: width .3s, height .3s;
     transition-timing-function: ease;
-    transform: translate(-50%, -50%);
+    
 }
 
 section#login > div#imagem {
